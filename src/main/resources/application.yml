@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ing-mortgage-exam
+    name: ing-mortgage-services
   docker:
     compose:
       enabled: false
